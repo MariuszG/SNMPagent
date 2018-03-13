@@ -4,4 +4,4 @@ Zadaniem agenta SNMP jest odpowiedź na polecenia "snmpset/snmpget" wysyłane do
 
 Do poprwy:
 - bug w parsowaniu plików,
-- bug w przesukiwaniu drzewa.
+- bug w przeszukiwaniu drzewa.
